@@ -12,10 +12,10 @@
   "time": {
     "version": "0.1.0",
     "description": "Adds time functions",
-    "main": "math.gy",
+    "main": "time.gy",
     "files": {
-      "math.gy": "math/math.gy",
-      "README.md": "math/README.md"
+      "time.gy": "time/time.gy",
+      "README.md": "time/README.md"
     }
   }
 }
