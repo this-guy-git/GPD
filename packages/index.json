@@ -14,7 +14,7 @@
     "description": "Adds time functions",
     "main": "time.py",
     "files": {
-      "time.gy": "time/time.py",
+      "time.py": "time/time.py",
       "README.md": "time/README.md",
       "manifest.gy": "time/manifest.gy"
     }
