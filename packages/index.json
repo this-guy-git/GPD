@@ -5,7 +5,7 @@
     "main": "main.gy",
     "files": {
       "main.gy": "example-package/main.gy",
-      "utils.gy": "example-package/utils.gy",
+      "manifest.gy": "example-package/manifest.gy",
       "README.md": "example-package/README.md"
     }
   },
