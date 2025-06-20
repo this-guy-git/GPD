@@ -10,12 +10,13 @@
     }
   },
   "time": {
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "Adds time functions",
-    "main": "time.gy",
+    "main": "time.py",
     "files": {
-      "time.gy": "time/time.gy",
-      "README.md": "time/README.md"
+      "time.gy": "time/time.py",
+      "README.md": "time/README.md",
+      "manifest.gy": "time/manifest.gy"
     }
   }
 }
