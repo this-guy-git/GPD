@@ -1,1 +1,21 @@
-test
+{
+  "example": {
+    "version": "1.0.0",
+    "description": "An example guython package",
+    "main": "main.gy",
+    "files": {
+      "main.gy": "example-packages/main.gy",
+      "utils.gy": "example-packages/utils.gy",
+      "README.md": "example-packages/README.md"
+    }
+  },
+  "time": {
+    "version": "0.1.0",
+    "description": "Adds time functions",
+    "main": "math.gy",
+    "files": {
+      "math.gy": "math/math.gy",
+      "README.md": "math/README.md"
+    }
+  }
+}
