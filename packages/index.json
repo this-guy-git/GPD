@@ -4,9 +4,9 @@
     "description": "An example guython package",
     "main": "main.gy",
     "files": {
-      "main.gy": "example-packages/main.gy",
-      "utils.gy": "example-packages/utils.gy",
-      "README.md": "example-packages/README.md"
+      "main.gy": "example-package/main.gy",
+      "utils.gy": "example-package/utils.gy",
+      "README.md": "example-package/README.md"
     }
   },
   "time": {
