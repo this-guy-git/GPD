@@ -24,9 +24,9 @@
     "main": "requests",
     "language": "python",
     "files": [
-      "requests/requests.py",
-      "requests/README.md",
-      "requests/manifest.gy"
+      "requests.py",
+      "README.md",
+      "manifest.gy"
     ]
   },
   "math": {
