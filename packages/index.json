@@ -34,9 +34,9 @@
     "main": "math",
     "language": "python",
     "files": [
-      "math/math.py",
-      "math/README.md",
-      "math/manifest.gy"
+      "math.py",
+      "README.md",
+      "manifest.gy"
     ]
   }
 }
