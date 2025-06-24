@@ -1,0 +1,4 @@
+name="math"
+version="0.1.0"
+main="math.py"
+language="python"

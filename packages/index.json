@@ -18,5 +18,25 @@
       "README.md": "time/README.md",
       "manifest.gy": "time/manifest.gy"
     }
+  },
+  "requests": {
+    "version": "0.1.0",
+    "main": "requests",
+    "language": "python",
+    "files": [
+      "requests/requests.py",
+      "requests/README.md",
+      "requests/manifest.gy"
+    ]
+  },
+  "math": {
+    "version": "0.1.0",
+    "main": "math",
+    "language": "python",
+    "files": [
+      "math/math.py",
+      "math/README.md",
+      "math/manifest.gy"
+    ]
   }
 }
