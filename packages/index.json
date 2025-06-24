@@ -21,6 +21,7 @@
   },
   "requests": {
     "version": "0.1.0",
+    "description": "Adds HTTP request GET method",
     "main": "requests",
     "language": "python",
     "files": [
@@ -31,6 +32,7 @@
   },
   "math": {
     "version": "0.1.0",
+    "description": "Adds more math functions",
     "main": "math",
     "language": "python",
     "files": [
