@@ -25,7 +25,8 @@ Making your own Guython package is very simple.
 4. Add your files
    - Once your '.gy' or '.py' files are added, you are done!
 5. Upload here
-   - Upload your files here as a pull request to check the file, and add information to the index.
+   - Fork the repo and upload your new package there.
+   - Submit your fork as a pull request so everything can be verifyed and added.
   
 # We Need Packages!
 We really need some more packages for Guython! If you have the skill, please add your ideas!
