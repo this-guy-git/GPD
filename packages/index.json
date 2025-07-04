@@ -40,5 +40,15 @@
       "README.md",
       "manifest.gy"
     ]
+  },
+  "easygui": {
+    "version": "0.1.0",
+    "description": "Adds Mr. Alien's (BDH) EasyGUI to Guython"
+    "main": "main",
+    "language": "python",
+    "files": [
+      "main.py",
+      "manifest.gy"
+    ]
   }
 }
