@@ -50,5 +50,15 @@
       "main.py",
       "manifest.gy"
     ]
+  },
+  "text": {
+    "version": "1.0.0",
+    "description": "Adds string manipulation to Guython",
+    "main": "main",
+    "language": "python",
+    "files": [
+      "main.py",
+      "manifest.gy"
+    ]
   }
 }
