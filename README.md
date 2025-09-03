@@ -1,5 +1,10 @@
 # Guy's Package Database
 All information on creating packages for Lumen is in the Lumen docs.
+### WARNING!!! THE PACKAGES DIRECTORY FOR LUMEN IS:
+### Lumen/packages
+### NOT
+### packages/
+
 
 All information on creating packages for Guython is listed below.
 
