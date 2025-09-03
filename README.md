@@ -1,38 +1,20 @@
 # Guy's Package Database
-Packages for all my stuff.
+All information on creating packages for Lumen is in the Lumen docs.
 
-Here is where you can commit a Pull Request to add packages to the 'gpd' to be used in my programming languages.
-
-Guython Packages can be called in Guython code with 'gpd import "gpdPackageName"' and can be used with elements similar to Python with gpdPackageName.Function().
-
-Add your own package with your own function if you wish, ALL packages are scanned to make sure NO malicious code is being executed, packages are written in either Guython or Python.
+All information on creating packages for Guython is listed below.
 
 GPD Packages ***MUST*** be unecrypted and open source.
 
 ***PLEASE test and verify your package works properly with the language before uploading!***
+
 ***You can add your package to your local Guython 'packages' folder to test!***
 
-## How to make your own package
-Making your own package is very simple.
-1. Create your own directory
-   - This is the name of your package, and what it will be called in the GPD index.
-   - All of your package files will go in here.
-2. Add a 'manifest.gy' file
-   - All packages require this file, as its what tell the index the name, your main file, and what language it is built in.
-3. Choose a language
-   - Guython packages can be writtten in Guython or Python.
-   - Python packages are easier to make, but more restricted.
-   - Lumen Packages can only be made in Python
-4. Add your files
-   - Once your '.gy' or '.py' files are added, you are done!
-5. Upload here
-   - Fork the repo and upload your new package there.
-6. Add to the correct folder
-   - Guython Packages go in the /packages directory
-   - Lumen Packages go in the /Lumen directory
+***You can add your package to your local Lumen 'packages' folder to test!***
 
 
-# Old Description:
+# All information below is heavily outdated. (Except for Guython stuffs)
+
+## Old Description:
 
 ### Guython Package Database
 Packages for Guython similar to Python's 'pip'.
