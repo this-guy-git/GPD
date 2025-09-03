@@ -1,0 +1,16 @@
+[INFO]
+name = test
+description = Simple test package
+version = 0.1.0
+author = this guy
+
+[DEPENDANCIES]
+
+[CONFIG]
+type = package
+category = testing
+
+[FUNCTIONS]
+test() = print("Test passed!")
+
+[CONSTANTS]

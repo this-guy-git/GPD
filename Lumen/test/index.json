@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "description": "Test package",
+  "author": "this guy",
+  "version": "0.1.0",
+  "folder": "test",
+  "main": "test.lmnp",
+  "repository": "None",
+  "documentation": "None",
+  "license": "None",
+  "dependencies": [
+    {
+      "type": "library",
+      "name": "MATH",
+      "version": "1.0"
+    }
+  ],
+  "category": "testing",
+  "tags": ["test", "testing", "this guy", "official"],
+  "min_lumen_version": "0.2.0"
+}

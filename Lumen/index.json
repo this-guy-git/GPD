@@ -1,0 +1,12 @@
+[
+{
+	"name": "test",
+	"description": "Test package",
+	"author": "this guy",
+	"version": "0.1.0",
+	"folder": "test",
+	"main": "test/test.lmnp",
+	"category": "testing",
+	"tags": ["test", "testing", "this guy", "official"]
+}
+]
